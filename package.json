@@ -1,0 +1,21 @@
+{
+  "name": "albertool-setup",
+  "version": "0.0.2",
+  "description": "Instalador do ecossistema Albertool + DarkStar",
+  "main": "index.js",
+  "bin": {
+    "albertool-setup": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "albertool",
+    "darkstar",
+    "cli",
+    "setup"
+  ],
+  "author": "albertaodasmassa",
+  "license": "ISC",
+  "type": "commonjs"
+}
